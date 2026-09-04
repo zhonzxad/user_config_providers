@@ -1,0 +1,24 @@
+#用于编写自定义的锚点、入站、proxy-providers、sub-rules、rule-set、script等功能
+#可参考 https://github.com/MetaCubeX/Clash.Meta/blob/Meta/docs/config.yaml 或 https://lancellc.gitbook.io/clash/clash-config-file/an-example-configuration-file
+#此处内容会被添加在配置文件的“proxy-group：”模块的末尾与“rules：”模块之前的位置
+#例如：
+#proxy-providers:
+#rule-providers:
+#sub-rules:
+#tunnels:
+#script:
+#listeners:
+
+sub-rules:
+  sub-rule-user-fillter-config1:
+    - DOMAIN-SUFFIX,aarr.cc,🎯 全球直连
+    - DOMAIN-SUFFIX,aarr.cc,🎯 全球直连
+    - DOMAIN-SUFFIX,baidu.com,DIRECT
+    # - DOMAIN-KEYWORD,ip.sb,DIRECT
+    # - DOMAIN-KEYWORD,ipwho.is,DIRECT
+    # - DOMAIN-KEYWORD,ipapi.is,DIRECT
+    # - DOMAIN-KEYWORD,ipip.net,DIRECT
+    - 'DOMAIN-REGEX,ip\.sb,DIRECT'                 # 原 +ip.sb    关键字匹配
+    - 'DOMAIN-REGEX,ipwho\.is,DIRECT'              # 原 +ipwho.is 关键字匹配
+    - 'DOMAIN-REGEX,ipapi\.is,DIRECT'              # 原 +ipapi.is 关键字匹配
+    - 'DOMAIN-REGEX,ipip\.net,DIRECT'              # 原 +ipip.net 关键字匹配
