@@ -1,0 +1,9 @@
+rule-providers:
+  UserConfigRules (Domain):
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/zhonzxad/user_config_providers/refs/heads/main/clash_mihomo/user_rules.yaml"
+    path: ./providers/user_config_rules_domain.yaml
+    interval: 86400
+rules:
+  - RULE-SET,UserConfigRules (Domain),🎯 全球直连
