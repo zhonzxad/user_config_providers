@@ -17,5 +17,4 @@ DOMAIN-REGEX,ipapi.is
 DOMAIN-REGEX,ipip.net
 
 # Adguard 规则
-DOMAIN-KEYWORD,adguard-dns.io
-DOMAIN-KEYWORD,adguard-dns.com
+DOMAIN-KEYWORD,adguard-dns
