@@ -14,4 +14,8 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-REGEX,ip.sb          
 DOMAIN-REGEX,ipwho.is             
 DOMAIN-REGEX,ipapi.is             
-DOMAIN-REGEX,ipip.net            
+DOMAIN-REGEX,ipip.net
+
+# Adguard 规则
+DOMAIN-KEYWORD,adguard-dns.io
+DOMAIN-KEYWORD,adguard-dns.com
