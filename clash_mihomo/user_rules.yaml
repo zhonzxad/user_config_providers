@@ -7,3 +7,6 @@ payload:
   - '+ipwho.is'
   - '+ipapi.is'
   - '+ipip.net'
+  - '+adguard-dns.io'
+  - '+adguard-dns.net'
+  - '+adguard-dns.com'
