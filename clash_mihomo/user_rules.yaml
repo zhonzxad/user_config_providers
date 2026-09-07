@@ -10,3 +10,5 @@ payload:
   - 'adguard-dns.io'
   - 'adguard-dns.net'
   - 'adguard-dns.com'
+  - '+.adguard-dns.io'
+  - '+.adguard-dns.com'
