@@ -1,3 +1,10 @@
+# adguard 流量条件
+# - 'adguard-dns.io'
+#  - 'adguard-dns.net'
+# - 'adguard-dns.com'
+#  - '+.adguard-dns.io'
+#  - '+.adguard-dns.com'
+
 payload:
   - 'aarr.cc'
   - '+aarr.cc'
@@ -7,8 +14,3 @@ payload:
   - '+ipwho.is'
   - '+ipapi.is'
   - '+ipip.net'
-  - 'adguard-dns.io'
-  - 'adguard-dns.net'
-  - 'adguard-dns.com'
-  - '+.adguard-dns.io'
-  - '+.adguard-dns.com'
