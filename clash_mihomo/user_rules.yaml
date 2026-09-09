@@ -1,9 +1,17 @@
 # adguard 流量条件
 # - 'adguard-dns.io'
-#  - 'adguard-dns.net'
+# - 'adguard-dns.net'
 # - 'adguard-dns.com'
-#  - '+.adguard-dns.io'
-#  - '+.adguard-dns.com'
+# - '+.adguard-dns.io'
+# - '+.adguard-dns.com'
+
+# AI 平台
+#  - 'runapi.co'
+#  - 'runapi.host'
+#  - '+runapi.co'
+#  - '+runapi.host'
+#  - '+runapi.ai'
+#  - '+runapi.ai'
 
 payload:
   - 'aarr.cc'
@@ -14,10 +22,4 @@ payload:
   - '+ipwho.is'
   - '+ipapi.is'
   - '+ipip.net'
-  - 'runapi.co'
-  - 'runapi.host'
-  - '+runapi.co'
-  - '+runapi.host'
-  - '+runapi.ai'
-  - '+runapi.ai'
 
