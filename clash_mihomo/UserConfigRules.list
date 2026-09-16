@@ -11,10 +11,7 @@ DOMAIN-SUFFIX,acl4.ssr
 # DOMAIN-KEYWORD,ipip.net
 DOMAIN-SUFFIX,aarr.cc
 DOMAIN-SUFFIX,baidu.com
-DOMAIN-REGEX,ip.sb          
-DOMAIN-REGEX,ipwho.is             
-DOMAIN-REGEX,ipapi.is             
-DOMAIN-REGEX,ipip.net
-
-# Adguard 规则
-DOMAIN-KEYWORD,adguard-dns
+DOMAIN-SUFFIX,ip.sb          
+DOMAIN-SUFFIX,ipwho.is             
+DOMAIN-SUFFIX,ipapi.is             
+DOMAIN-SUFFIX,ipip.net
