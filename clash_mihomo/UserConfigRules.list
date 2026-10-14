@@ -15,7 +15,12 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipwho.is             
 DOMAIN-SUFFIX,ipapi.is             
 DOMAIN-SUFFIX,ipip.net
+# emby
 DOMAIN-SUFFIX,goemby.entertang.work
 DOMAIN-SUFFIX,entertang.work
 DOMAIN-SUFFIX,syemby.com
 DOMAIN-SUFFIX,yd.emby.syemby.com
+# AI Coding
+DOMAIN-SUFFIX,right.codes
+DOMAIN-SUFFIX,runapi.co
+DOMAIN-SUFFIX,runapi.host
