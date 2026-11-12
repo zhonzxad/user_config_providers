@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,yd.emby.syemby.com
 # AI Coding
 DOMAIN-SUFFIX,right.codes
 # DOMAIN-SUFFIX,runapi.co
-DOMAIN-SUFFIX,runapi.host
-DOMAIN-SUFFIX,rightapi.io
-DOMAIN-SUFFIX,api.site
+#DOMAIN-SUFFIX,runapi.host
+#DOMAIN-SUFFIX,rightapi.io
+#DOMAIN-SUFFIX,api.site
 # AI co-pilot
 DOMAIN-SUFFIX,realtimecopilot.cn
