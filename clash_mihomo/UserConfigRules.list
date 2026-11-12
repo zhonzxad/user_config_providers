@@ -5,10 +5,6 @@
 DOMAIN-SUFFIX,acl4.ssr
 
 # 自定义规则
-# DOMAIN-KEYWORD,ip.sb
-# DOMAIN-KEYWORD,ipwho.is
-# DOMAIN-KEYWORD,ipapi.is
-# DOMAIN-KEYWORD,ipip.net
 DOMAIN-SUFFIX,aarr.cc
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,ip.sb          
@@ -21,10 +17,5 @@ DOMAIN-SUFFIX,entertang.work
 DOMAIN-SUFFIX,syemby.com
 DOMAIN-SUFFIX,yd.emby.syemby.com
 # AI Coding
-DOMAIN-SUFFIX,right.codes
-# DOMAIN-SUFFIX,runapi.co
-# DOMAIN-SUFFIX,runapi.host
-# DOMAIN-SUFFIX,rightapi.io
-# DOMAIN-SUFFIX,api.site
 # AI co-pilot
 DOMAIN-SUFFIX,realtimecopilot.cn
